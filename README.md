@@ -5,8 +5,7 @@
 
 ---
 
-Para ver la demo del proyecto haz click en el siguiente enlace
-[![Demo del Proyecto]]([index.html](https://matias-barraza.github.io/challenge-hotel/))
+<a href="https://matias-barraza.github.io/challenge-hotel/" target="_blank">Para ver la demo del proyecto haz click en el siguiente enlace --></a>
 
 ---
 
@@ -75,4 +74,4 @@ Eliminación de Registros:
 #### Haz clic en la imagen para ver el video:
 
 
-[![Demo del Proyecto](video/portada.png)]([index.html](https://matias-barraza.github.io/challenge-hotel/)https://matias-barraza.github.io/challenge-hotel/)
+[![Demo del Proyecto](video/portada.png)](https://matias-barraza.github.io/challenge-hotel/)
