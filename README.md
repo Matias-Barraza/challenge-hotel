@@ -6,7 +6,7 @@
 ---
 
 Para ver la demo del proyecto haz click en el siguiente enlace
-[Demo del Proyecto](#🚧-demo-del-proyecto)
+[![Demo del Proyecto]](index.html)
 
 ---
 
@@ -75,4 +75,4 @@ Eliminación de Registros:
 #### Haz clic en la imagen para ver el video:
 
 
-[![Demo del Proyecto](video/portada.png)](video/demo.mp4)
+[![Demo del Proyecto](video/portada.png)](index.html)
