@@ -5,7 +5,7 @@
 
 ---
 
-<a href="https://matias-barraza.github.io/challenge-hotel/" target="_blank">Para ver la demo del proyecto haz click en el siguiente enlace --></a>
+<a href="https://matias-barraza.github.io/challenge-hotel/" target="_blank">Para ver la demo del proyecto haz click Aqui</a>
 
 ---
 
